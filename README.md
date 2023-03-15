@@ -2,6 +2,7 @@
 ![GUI_SS](https://user-images.githubusercontent.com/48646630/137615889-34263852-bd9d-4e10-b290-989d85c4f28b.png)
 
 Publication:
+
 FAZSeg: A New Software for Quantification of the Foveal Avascular Zone
 Clinical Ophthalmology, Dove Medical Press
 
