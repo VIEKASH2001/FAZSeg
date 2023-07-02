@@ -1,6 +1,7 @@
 <a>
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=FAZ+Segmentation+Tool" alt="Typing SVG" />
 </a>
+
 ![GUI_SS](https://user-images.githubusercontent.com/48646630/137615889-34263852-bd9d-4e10-b290-989d85c4f28b.png)
 
 Publication: [FAZSeg: A New Software for Quantification of the Foveal Avascular Zone](https://www.dovepress.com/fazseg-a-new-software-for-quantification-of-the-foveal-avascular-zone-peer-reviewed-fulltext-article-OPTH)
